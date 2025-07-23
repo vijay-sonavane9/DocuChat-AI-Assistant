@@ -1,0 +1,19 @@
+ # Core
+fastapi
+uvicorn
+streamlit
+boto3
+pydantic
+python-multipart
+
+# LLM & Embedding
+langchain
+sentence-transformers
+faiss-cpu
+
+# PDF Parsing
+PyMuPDF
+
+# CORS
+fastapi[all]
+
