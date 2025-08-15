@@ -1,7 +1,7 @@
 # 📄 DocuChat AI Assistant
 
 DocuChat is a smart AI assistant that lets you upload a PDF and chat with it in real time. It's powered by **Anthropic's Claude LLM** via **AWS Bedrock** and has a clean **Streamlit** interface.
-
+You can access this tool by follow this link: https://docuchat-ai-assistant-8t6t8nbzn8fxyzagczetk2.streamlit.app/
 ---
 
 ## 🚀 Features
